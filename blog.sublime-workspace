@@ -1,0 +1,532 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"conver",
+				"convertJSONtoArray"
+			],
+			[
+				"str",
+				"str_replace"
+			],
+			[
+				"str_",
+				"str_split"
+			],
+			[
+				"Users",
+				"users"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"Reque",
+				"Request"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/UsersController.php",
+			"settings":
+			{
+				"buffer_size": 492,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/admin/users/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 628,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/PagesController.php",
+			"settings":
+			{
+				"buffer_size": 1314,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/pages/curl.blade.php",
+			"settings":
+			{
+				"buffer_size": 279,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/User.php",
+			"settings":
+			{
+				"buffer_size": 853,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/nando/blog",
+		"/home/nando/blog/app",
+		"/home/nando/blog/app/Http",
+		"/home/nando/blog/app/Http/ViewComposers",
+		"/home/nando/blog/database",
+		"/home/nando/blog/database/factories",
+		"/home/nando/blog/database/seeds",
+		"/home/nando/blog/resources",
+		"/home/nando/blog/resources/views",
+		"/home/nando/blog/resources/views/admin",
+		"/home/nando/blog/resources/views/admin/users",
+		"/home/nando/blog/resources/views/auth",
+		"/home/nando/blog/resources/views/blade",
+		"/home/nando/blog/resources/views/errors",
+		"/home/nando/blog/resources/views/layouts",
+		"/home/nando/blog/resources/views/pages",
+		"/home/nando/blog/routes"
+	],
+	"file_history":
+	[
+		"/etc/hosts",
+		"/home/nando/blog/app/Http/Controllers/Controller.php",
+		"/var/www/html/curl/index.php",
+		"/home/nando/blog/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/home/nando/blog/routes/web.php",
+		"/home/nando/blog/i",
+		"/var/www/html/curl/get.php",
+		"/home/nando/blog/resources/views/blade/bladetest.blade.php",
+		"/home/nando/blog/database/seeds/DatabaseSeeder.php",
+		"/home/nando/blog/database/factories/ModelFactory.php",
+		"/home/nando/blog/.env",
+		"/home/nando/blog/resources/views/pages/settings.blade.php",
+		"/home/nando/blog/resources/views/layouts/footer.blade.php",
+		"/home/nando/blog/resources/views/layouts/menu.blade.php",
+		"/home/nando/blog/resources/views/layouts/master.blade.php",
+		"/home/nando/blog/app/Http/Controllers/PagesController.php",
+		"/home/nando/blog/resources/views/home.blade.php",
+		"/home/nando/blog/resources/views/pages/profile.blade.php",
+		"/home/nando/blog/app/Providers/ComposerServiceProvider.php",
+		"/home/nando/blog/app/Http/ViewComposers/ProfileComposer.php",
+		"/home/nando/blog/app/Providers/AppServiceProvider.php",
+		"/home/nando/blog/config/app.php",
+		"/home/nando/blog/resources/views/layouts/app.blade.php",
+		"/home/nando/blog/bootstrap/app.php",
+		"/home/nando/blog/app/Http/Controllers/UsersController.php",
+		"/home/nando/blog/vendor/nesbot/carbon/src/Carbon/Carbon.php",
+		"/home/nando/blog/resources/views/pages/index.blade.php",
+		"/home/nando/blog/vendor/symfony/routing/Route.php",
+		"/home/nando/blog/resources/views/admin/users/index.blade.php",
+		"/home/nando/blog/app/User.php",
+		"/home/nando/blog/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/nando/blog/resources/views/admin/users/create.blade.php",
+		"/home/nando/blog/resources/views/welcome.blade.php",
+		"/home/nando/blog/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/home/nando/blog/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/nando/blog/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
+		"/home/nando/blog/.env.example",
+		"/home/nando/blog/routes/api.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"(\"#(/\\*([^*]|[\\",
+			"bosy",
+			"){\n",
+			"home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/UsersController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/admin/users/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								535,
+								535
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Controllers/PagesController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1304,
+								1304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 561.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/pages/curl.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/User.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"helpers",
+				"vendor/laravel/framework/src/Illuminate/Support/helpers.php"
+			],
+			[
+				"index.blade",
+				"resources/views/admin/users/index.blade.php"
+			],
+			[
+				"users",
+				"app/Http/Controllers/UsersController.php"
+			],
+			[
+				"pages",
+				"app/Http/Controllers/PagesController.php"
+			],
+			[
+				"settin",
+				"resources/views/pages/settings.blade.php"
+			],
+			[
+				"prof",
+				"app/Http/ViewComposers/ProfileComposer.php"
+			],
+			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
+				"composerser",
+				"app/Providers/ComposerServiceProvider.php"
+			],
+			[
+				"app",
+				"config/app.php"
+			],
+			[
+				"app.",
+				"config/app.php"
+			],
+			[
+				"layouts.app",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"appserv",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"home",
+				"resources/views/home.blade.php"
+			],
+			[
+				"rout",
+				"vendor/symfony/routing/Route.php"
+			],
+			[
+				"user.bla",
+				"resources/views/admin/users/index.blade.php"
+			],
+			[
+				"user",
+				"app/Http/Controllers/UsersController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
